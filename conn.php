@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect("localhost","root","","albtuy1_guhindura");
+$db = mysqli_connect("localhost","root","","aheroku_a05a5675a2c79bd");
 
 if(!$db)
 {
